@@ -1,1 +1,1 @@
-# Personal-Finance
+A simple yet powerful SQLite-based Personal Finance Management System that helps you track bank account balances, transactions, budgets, and spending trends. This project is designed to help individuals efficiently manage their personal finances. # Personal-Finance
